@@ -1,0 +1,29 @@
+{
+  "name": "mali-erdel",
+  "version": "1.0.0",
+  "description": "bur bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mali": "echo 'benim adim mali'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "mali erdel",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.1",
+    "nodemailer": "^6.5.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nagonad/mali-erdel.git"
+  }
+}
